@@ -61,3 +61,7 @@ Predicted Output: 160
 ## Author
 
 Lokesh Bharani K
+
+## Project Output
+
+![Linear Regression Output](output.png)
